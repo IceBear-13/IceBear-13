@@ -1,10 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 
 ## About Me:
 Hi, I'm Fillbert Anthony Halim<br>I'm a 2nd year computer science student studying at City University of Hong Kong<br>I am currently a full-stack web app developer venturing out into other fields of computer science<br>I love cats and dogs
 
 
-## 🌐 Socials:
+## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fillbert.anthony) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fillbert-anthony-652b39217) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30193659) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fillbert.anthony@gmail.com) 
 
 # 💻 Tech Stack:
