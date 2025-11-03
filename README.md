@@ -1,7 +1,7 @@
 # Hi there 👋
 
 # 💫 About Me:
-Hi, I'm Fillbert Anthony Halim<br>I'm a 2nd year computer science student studying at City University of Hong Kong<br>I am currently a full-stack web app developer venturing out into other fields of computer science<br>I love cats and dogs
+Hi, I'm Fillbert Anthony Halim<br>I'm a 3rd year computer science student studying at City University of Hong Kong<br>I am currently a full-stack web app developer venturing out into other fields of computer science<br>I mainly do backend and a little bit of low level stuff<br>I love cats and dogs
 
 
 ## 🌐 Socials:
